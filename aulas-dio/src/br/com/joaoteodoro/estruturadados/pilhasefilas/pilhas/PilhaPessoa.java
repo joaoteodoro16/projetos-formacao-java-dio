@@ -1,4 +1,4 @@
-package br.com.joaoteodoro.estruturadados.pilhasefilas;
+package br.com.joaoteodoro.estruturadados.pilhasefilas.pilhas;
 
 public class PilhaPessoa {
 

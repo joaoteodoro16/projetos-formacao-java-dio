@@ -1,4 +1,4 @@
-package br.com.joaoteodoro.estruturadados.pilhasefilas;
+package br.com.joaoteodoro.estruturadados.pilhasefilas.pilhas;
 
 public class MainPessoa {
     public static void main(String[] args) {
@@ -12,9 +12,5 @@ public class MainPessoa {
 
         System.out.println(minhaPilhaPessoa.toString());
         System.out.println(minhaPilhaPessoa.top().toString());
-
-
-
-
     }
 }
